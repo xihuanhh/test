@@ -8,5 +8,5 @@
 
 ## Node.js
 
-* [呵呵](he-he.md)
+* [呵呵](node.js/he-he.md)
 
